@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Mon Sep 19 15:47:25 CST 2016
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=D\:\\Jar\\HS01_4.jar
+manifest.mergeall=true
+manifest.mainclass=com.epiphan.vga2usb.test.Test
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=
+includes=
